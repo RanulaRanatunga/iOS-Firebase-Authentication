@@ -2,8 +2,8 @@
 //  DataBindListVC.swift
 //  Training-iOS-DataSources
 //
-//  Created by Dushan Saputhanthri on 9/6/20.
-//  Copyright © 2020 Elegant Media Pvt Ltd. All rights reserved.
+//  Created by Ranula Ranatunga  on 9/6/20.
+//  Copyright © 2020 Ranula Ranatunga . All rights reserved.
 //
 
 import UIKit
