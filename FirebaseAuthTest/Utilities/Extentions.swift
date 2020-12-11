@@ -1,6 +1,6 @@
 //
 //  Extentions.swift
-//  Copyright © 2019 Elegant Media Pvt Ltd. All rights reserved.
+//  Copyright © 2020 Ranula Ranatunga . All rights reserved.
 //
 
 import Foundation
