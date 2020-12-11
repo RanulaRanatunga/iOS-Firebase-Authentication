@@ -2,8 +2,8 @@
 //  User.swift
 //  FirebaseAuthExample
 //
-//  Created by Pasan Induwara Edirisooriya on 6/24/20.
-//  Copyright © 2020 ElegantMedia. All rights reserved.
+//  Created by Ranula Ranatunga on 8/24/20.
+//  Copyright © 2020 Ranula Ranatunga . All rights reserved.
 //
 
 import Foundation
