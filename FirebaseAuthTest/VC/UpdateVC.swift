@@ -2,8 +2,8 @@
 //  UpdateVC.swift
 //  FirebaseAuthTest
 //
-//  Created by Gautham Sritharan on 6/29/20.
-//  Copyright © 2020 Hashan Kannangara. All rights reserved.
+//  Created by Ranula Ranatunga on 6/29/20.
+//  Copyright © 2020 Ranula Ranatunga. All rights reserved.
 //
 
 import UIKit
